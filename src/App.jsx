@@ -10,7 +10,7 @@ import Register from "./Pages/Register.jsx";
 import Login from "./Pages/Login.jsx";
 import Cart from "./Pages/cart.jsx";
 import Checkout from "./Pages/Checkout.jsx";
-import Orders from "./Pages/orders.jsx";
+import Orders from "./Pages/Orders.jsx";
 import Search from "./Pages/Search";
 
 //hello
