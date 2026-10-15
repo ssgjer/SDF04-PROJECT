@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Header from "./section/header.jsx";
 import Hero from "./section/hero.jsx";
-import Menu from "./section/Menu.jsx";
+import Menu from "./section/MenuSection.jsx";
 import Restaurants from "./Pages/Restaurants.jsx";
 import RestaurantDetail from "./Pages/RestaurantDetail.jsx";
 import Register from "./Pages/Register.jsx";
