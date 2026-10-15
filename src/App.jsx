@@ -8,7 +8,7 @@ import Restaurants from "./Pages/Restaurants.jsx";
 import RestaurantDetail from "./Pages/RestaurantDetail.jsx";
 import Register from "./Pages/Register.jsx";
 import Login from "./Pages/Login.jsx";
-import Cart from "./Pages/cart.jsx";
+import Cart from "./Pages/Cart.jsx";
 import Checkout from "./Pages/Checkout.jsx";
 import Orders from "./Pages/Orders.jsx";
 import Search from "./Pages/Search";
